@@ -8,7 +8,7 @@ tags:
 - UX
 
 ---
-"… In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guild drew a Map of the Empire whose size was that of the Empire, coinciding point for point with it. The following Generations, who were not so fond of the Study of Cartography saw the vast Map to be Useless and permitted it to decay and fray under the Sun and winters. In the Deserts of the West, still today, there are Tattered Ruins of the Map, inhabited by Animals and Beggars." lolllll123  
+"… In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guild drew a Map of the Empire whose size was that of the Empire, coinciding point for point with it. The following Generations, who were not so fond of the Study of Cartography saw the vast Map to be Useless and permitted it to decay and fray under the Sun and winters. In the Deserts of the West, still today, there are Tattered Ruins of the Map, inhabited by Animals and Beggars." lolllll1234  
 \-- Borges
 
 ## Course Meeting Times
