@@ -1,17 +1,13 @@
 ---
-course_id: 4-123-architectural-design-level-i-perceptions-and-processes-fall-2003
-layout: course_section
-menu:
-  leftnav:
-    identifier: c260bcfb5952044a8ba5350677535621
-    name: Projects
-    weight: 40
-title: Projects
-type: course
-uid: c260bcfb5952044a8ba5350677535621
+address:
+  city: Cambridge
+  state: MA
+  street_address: 600 Technology Square
+  zip: 02183
+tags:
+- UX
 
 ---
-
 Compilations of Student Work
 ----------------------------
 
